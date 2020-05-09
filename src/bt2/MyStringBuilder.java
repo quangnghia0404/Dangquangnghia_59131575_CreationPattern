@@ -9,7 +9,7 @@ package bt2;
  *
  * @author Laptop
  */
-public class MyStringBuilder {
+public class MyStringBuilder  {
     String str;
     protected MyStringBuilder (Builder builder)
     {

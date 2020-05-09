@@ -11,7 +11,7 @@ import java.util.ArrayList;
  *
  * @author Laptop
  */
-public class HoaDon {
+public class HoaDon  {
     HoaDonHeader HDH;
     ArrayList<CTHD> DSHD = new ArrayList<>();
     

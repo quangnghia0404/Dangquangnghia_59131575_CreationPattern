@@ -10,7 +10,7 @@ package bt1;
  *
  * @author Laptop
  */
-public class bt1Main {
+public class bt1Main  {
 
     /**
      * @param args the command line arguments

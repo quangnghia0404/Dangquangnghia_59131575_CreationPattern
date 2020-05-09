@@ -9,7 +9,7 @@ package bt1;
  *
  * @author Laptop
  */
-public class CTHD {
+public class CTHD  {
     String tenSP;
     int soLuong;
     double donGia;

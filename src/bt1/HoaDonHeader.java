@@ -9,7 +9,7 @@ package bt1;
  *
  * @author Laptop
  */
-public class HoaDonHeader {
+public class HoaDonHeader  {
     String maHoaDon;
     String ngayBan;
     String tenKhachHang;

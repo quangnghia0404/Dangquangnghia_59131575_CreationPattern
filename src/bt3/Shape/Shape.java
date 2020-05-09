@@ -16,7 +16,7 @@ public abstract class Shape {
     int count;
 
     public int getCount() {
-        return count;
+        return count ;
     }
 
     public void setCount(int count) {
